@@ -1,0 +1,24 @@
+body {
+  background-color: #221B1C;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
+.img-container {
+  text-align: center;
+}
+
+.content-container {
+  text-align: center;
+}
+
+.list-parent li {
+  margin-bottom: 10px;
+}
+
+.uls {
+  display: block;
+  margin-left: 500px;
+}

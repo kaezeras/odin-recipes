@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  background-color: #221B1C;
+}
+
+.rendang, .nasi-goreng, .satay {
+  text-decoration: none;
+  color: #FEE1FA;
+  font-size: 40px;
+}
+
+.p-menu {
+  text-align: center;
+  color: #FEE1FA;
+  font-size: 50px;
+  position: relative;
+  top: 20px;
+}
+
+.container {
+}
+
+.li-container {
+  height: 200px;
+  display: flex;
+  column-gap: 33%;
+  align-items: center;
+}
+
+li {
+  margin-bottom: 10px;
+  list-style: none;
+}
